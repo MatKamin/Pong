@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="pong" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="application.pong" />
+    <module name="u21_pong" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\beata\Desktop\u21_pong\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml,javafx.media" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="application.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
